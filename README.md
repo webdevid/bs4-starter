@@ -1,1 +1,1 @@
-# bs4-starter
+# Langitstudio Starter Html Theme
